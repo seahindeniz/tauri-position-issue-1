@@ -1,0 +1,4 @@
+max_width = 80
+reorder_imports = true
+trailing_comma = "Vertical"
+tab_spaces = 2
